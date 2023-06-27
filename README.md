@@ -1,5 +1,5 @@
 
-# Mental Disorders Classification using NLP
+# Mental Disorders Classification using NLP 🧠
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -30,13 +30,13 @@ Please refer to the working [demonstration](https://drive.google.com/drive/folde
 ## Goals
 
 The main goals of this project are:
-- Classify mental health-related text data into different categories.
-- Build a machine learning model using the Multinomial Naive Bayes algorithm.
-- Evaluate the model's performance using classification metrics.
+- Classify mental health-related text data into different categories. ✅
+- Build a machine learning model using the Multinomial Naive Bayes algorithm. ✅
+- Evaluate the model's performance using classification metrics. ✅
 
 ## Technical Aspect
 
-The project involves the following technical aspects:
+The project involves the following technical aspects: ⚙️
 - Importing required libraries such as pandas, numpy, matplotlib, sklearn, and nltk.
 - Loading and preprocessing the dataset.
 - Performing tokenization, removing stopwords, and lemmatization on the text data.
