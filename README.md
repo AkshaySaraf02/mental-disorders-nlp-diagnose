@@ -53,7 +53,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/AkshaySaraf02/mental-disorders-nlp-diagnose
+git clone https://github.com/AkshaySaraf02/mental-disorders-nlp-diagnose.git
 ```
 
 2. Install the required libraries:
