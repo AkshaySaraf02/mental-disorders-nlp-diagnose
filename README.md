@@ -1,6 +1,15 @@
-# Project Title
 
-Mental Disorders Classification using NLP
+# Mental Disorders Classification using NLP
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Demo](#demo)
+3. [Goals](#goals)
+4. [Technical Aspect](#technical-aspect)
+5. [Installation](#installation)
+6. [To Do](#to-do)
+7. [Technologies Used](#technologies-used)
+8. [License](#license)
 
 ## Overview
 
@@ -14,6 +23,9 @@ Example usage:
 ```python
 diagnose("I feel anxious all the time")
 ```
+
+#### Important: 
+Please refer to the working [demonstration](https://drive.google.com/drive/folders/1WVuhZLrMnsr6eudSgG000vKTjCT6n-8P?usp=sharing) of the NLP model for further understanding.
 
 ## Goals
 
@@ -41,7 +53,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/AkshaySaraf02/mental-disorders-nlp-diagnose
 ```
 
 2. Install the required libraries:
@@ -75,6 +87,3 @@ The project utilizes the following technologies and libraries:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Head to https://drive.google.com/drive/folders/1WVuhZLrMnsr6eudSgG000vKTjCT6n-8P?usp=sharing
-and download the mp4 file for the demo of NLP Model in real use.
